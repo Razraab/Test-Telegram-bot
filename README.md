@@ -1,3 +1,9 @@
-Hi I'm a Razraaab, I'm in school and I want to become a programmer. 
-Now I am interested in telegram bots, server requests and its parsing. 
-I hope I can make it
+Bot manual
+
+For start this python bot need run this commands in cmd:
+
+$path = path to this dir
+
+1. cd $path\Project
+2. venv\scripts\activate
+3. python.exe main.py
